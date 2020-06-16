@@ -5,6 +5,7 @@ body {
 .box {
     width: 90%;
     margin: 20vh auto;
+    text-align: center;
 }
 figure {
     overflow: hidden;
